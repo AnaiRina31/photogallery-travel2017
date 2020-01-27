@@ -28,13 +28,11 @@ h1{
   padding: 5px;
   filter: grayscale(100%) contrast(70%) brightness(115%);
   transition: all 1s;
-  border-radius: 30px;
 }
 
 .gallery img:hover{
   filter: grayscale(0);
   transform: scale(1.1);
-  border-radius: 30px;
 }
 
 .travel-message{
