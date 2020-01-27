@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>2017ひとり旅フォトギャラリー</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="dist/css/lightbox.min.css">
+    <script type="text/javascript" src="dist/js/lightbox-plus-jquery.min.js"></script>
+
+  </head>
+
+  <body>
+    <!-- <div id="top-top">
+
+    </div> -->
+    <h1>My Travel Photos</h1>
+
+    <div class="top">
+    <div class="gallery">
+
+      <a href="img/tenkatyaya1.png" data-lightbox="mygallery" data-title="御坂峠の天下茶屋にて"><img src="img/tenkatyaya1-2.png" alt="天下茶屋外観"></a>
+
+      <a href="img/tenkaEat1.png" data-lightbox="mygallery" data-title="ひとりで天下茶屋に来た私"><img src="img/tenkaEat1-2.png" alt="天下茶屋で食べている私料理"></a>
+
+      <a href="img/rikukyo1.png" data-lightbox="mygallery" data-title="東京三鷹・陸橋の上で"><img src="img/rikukyo1-2.png" alt="三鷹陸橋の上"></a>
+      
+      <a href="img/hakatagou-fiji1.png" data-lightbox="mygallery" data-title="夜行バスはかた号の車窓から見えた富士山"><img src="img/hakatagou-fiji1-2.png" alt="はかた号からの富士山"></a>
+      
+      <a href="img/misakatouge.png" data-lightbox="mygallery" data-title="旧御坂峠の看板"><img src="img/misakatouge-2.png" alt="御坂峠看板"></a>
+      
+      <a href="img/misakaFuji-1.png" data-lightbox="mygallery" data-title="御坂峠から眺めた富士山"><img src="img/misakaFuji-1-2.png" alt="御坂峠からの富士山"></a>
+      
+      <a href="img/misaka-menu1.png" data-lightbox="mygallery" data-title="天下茶屋名物の芋団子と甘酒"><img src="img/misaka-menu1-2.png" alt="天下茶屋メニュー"></a>
+      
+      <a href="img/kawaguchokoSta1.png" data-lightbox="mygallery" data-title="河口湖駅正面"><img src="img/kawaguchokoSta1-2.png" alt="ほうとう"></a>
+      
+      <a href="img/houtou1.png" data-lightbox="mygallery" data-title="河口湖駅で食べた山梨郷土料理ほうとう"><img src="img/houtou1-2.png" alt="ほうとう"></a>
+      
+      <a href="img/ajinomoto1.png" data-lightbox="mygallery" data-title="太宰さんのお墓にお供えした味の素"><img src="img/ajinomoto1-2.png" alt="味の素"></a>
+      
+      <a href="img/mitakaNight1.png" data-lightbox="mygallery" data-title="三鷹の夜景"><img src="img/mitakaNight1-2.png" alt="三鷹の夜景"></a>
+
+      <a href="img/hyousiki1.png" data-lightbox="mygallery" data-title="登山道の看板"><img src="img/hyousiki1-2.png" alt="登山道の看板"></a>
+
+      <a href="img/kawaguchi-ko.png" data-lightbox="mygallery" data-title="河口湖を見下ろす"><img src="img/kawaguchi-ko-2.png" alt="河口湖を見下ろす"></a>
+
+      <a href="img/mitaka-kazesanpo.png" data-lightbox="mygallery" data-title="東京三鷹・風の散歩道"><img src="img/mitaka-kazesanpo-2.png" alt="風の散歩道"></a>
+
+      <a href="img/kawaguchi-fuji.png" data-lightbox="mygallery" data-title="秋の富士山と河口湖"><img src="img/kawaguchi-fuji-2.png" alt="富士山と河口湖"></a>
+
+    </div>
+  </div>
+
+  <div class="roberto-cover">
+    <div class="roberto">
+      <p id="r-meigen">" Every hundred feet the world changes. "</p>
+      <p id="r-by">by Roberto Bolaño</p>
+    </div>
+  </div>
+
+  <div class="top">
+    <div class="gallery">
+      <a href="img2/rikukyou-yoko1.png" data-lightbox="mygallery" data-title="陸橋と私"><img src="img2/rikukyou-yoko1-2.png" alt="陸橋と私"></a>
+
+      <a href="img/tenka-tukue.png" data-lightbox="mygallery" data-title="天下茶屋２階・太宰さんが使っていた机と火鉢！"><img src="img/tenka-tukue-2.png" alt="机火鉢"></a>
+
+      <a href="img/rikukyou-mitaka1.png" data-lightbox="mygallery" data-title="三鷹陸橋の上り口"><img src="img/rikukyou-mitaka1-2.png" alt="陸橋上り口"></a>
+
+      <a href="img/tyayanoren1.png" data-lightbox="mygallery" data-title="天上山のたぬき茶屋"><img src="img/tyayanoren1-2.png" alt="たぬき茶屋"></a>
+
+      <a href="img/moriougai-osonae.png" data-lightbox="mygallery" data-title="森鴎外先生にも万頭のお供え！"><img src="img/moriougai-osonae-2.png" alt="味の素"></a>
+
+      <a href="img2/bungakuhi-ura1.png" data-lightbox="mygallery" data-title="天下茶屋前の文学碑"><img src="img2/bungakuhi-ura1-2.png" alt="文学碑"></a>
+
+      <a href="img2/dazai-saron1.png" data-lightbox="mygallery" data-title="東京三鷹・太宰治サロン入口"><img src="img2/dazai-saron1-2.png" alt="太宰治サロン"></a>
+
+      <a href="img2/kawaguchiko-bus.png" data-lightbox="mygallery" data-title="河口湖バス"><img src="img2/kawaguchiko-bus-2.png" alt="河口湖バス"></a>
+
+      <a href="img2/rikukyo-densya1.png" data-lightbox="mygallery" data-title="陸橋の上から見えた電車"><img src="img2/rikukyo-densya1-2.png" alt="陸橋の上電車"></a>
+
+      <a href="img/tozan-kyukei.png" data-lightbox="mygallery" data-title="登山中ちょっと休憩！"><img src="img/tozan-kyukei-2.png" alt="休憩"></a>
+      
+      <a href="img2/sinjyuku-sta1.png" data-lightbox="mygallery" data-title="初めての新宿駅"><img src="img2/sinjyuku-sta1-2.png" alt="新宿"></a>
+
+      <a href="img2/susuki1.png" data-lightbox="mygallery" data-title="河口湖とススキ"><img src="img2/susuki1-2.png" alt="ススキ"></a>
+
+      <a href="img2/tanukidango1.png" data-lightbox="mygallery" data-title="たぬき茶屋にて"><img src="img2/tanukidango1-2.png" alt="たぬき茶屋団子"></a>
+
+      <a href="img2/tenka-sit1.png" data-lightbox="mygallery" data-title="天下茶屋で休憩"><img src="img2/tenka-sit1-2.png" alt="天下茶屋休憩"></a>
+
+      <a href="img2/travel-end1.png" data-lightbox="mygallery" data-title="秋の道"><img src="img2/travel-end1-2.png" alt="秋の道に消え去る私"></a>
+
+    </div>
+  </div>
+
+  <div class="daiana-cover">
+  <div class="daiana">
+    <p id="d-meigen">" Life is just a journey. "</p>
+    <p id="d-by">by Diana Frances</p>
+  </div>
+</div>
+
+    <div class="green-backcolor">
+    <div class="green-border">
+    <div class="travel-message">
+      <div class="bag-height">
+      <h3>旅の思い出</h3>
+      <img src="img/travelBag.png" alt="旅行カバンアイコン" class="icon" id="bag-icon">
+      <div class="contains" id="bag-p">
+      <p>大学１年の秋に行った東京山梨ひとり旅</p>
+      </div>
+      </div> 
+      <div class="day-height">
+      <h3>旅行日</h3>
+      <img src="img/travelDay.png" alt="カレンダーアイコン" class="icon" id="day-icon">
+      <div class="contains" id="day-p">
+      <p id="day">２０１７年１０月３１日〜１１月４日（４泊５日）</p>
+      </div>
+      </div>
+
+      <div class="time-height">
+      <h3>旅程</h3>
+      <img src="img/travelTime.png" alt="時計アイコン" class="icon" id="time-icon">
+      <div class="contains" id="time-p">
+      <ul>
+        <li>１日目：夜行バスで福岡天神から東京新宿へ</li>
+        <li>２日目：東京・三鷹へ　太宰さんの初お墓参り！</li>
+        <li>３日目：山梨・河口湖町へ　まるっと１日河口湖観光</li>
+        <li>４日目：念願の御坂峠・天下茶屋へ！</li>
+        <li>５日目：福岡天神着　旅の終わりが悲しすぎてバスの中で号泣</li>
+      </ul>
+    </div>
+    </div>
+
+    <div class="kansou-height">
+      <h3>旅の感想</h3>
+      <img src="img/travelMemo.png" alt="感想アイコン" class="icon" id="kansou-icon">
+      <div class="contains" id="kansou-p">
+      <p>私にとってはこれが初めてのひとり旅でした。ひとりで夜行バスに乗るのも、ひとりでホテルに止まるのも、ひとりで東京に行くのも、ひとりで電車に乗るのも、全て初めてのことでした。出発前も旅行中も不安な気持ちでいっぱいでしたが、結果、初めてのひとり旅は大成功に終わりました。この５日間は今でも大切な思い出です。太宰さんありがとう！　旅先で眺めた美しい景色を、私は一生忘れません。</p>
+    </div>
+    </div>
+  </div>
+  </div>
+</div>
+
+  <div class="share">
+    <h3> Let's share! </h3>
+    <p>
+      <img src="img2/girl-sns.png" id="girlimage-sns" alt="拡散する女の子">
+    </p>
+    <div class="share-icons">
+    <span class="sns-icon" id="facebook">
+      <a href="#" rel="nofollow" target="_blank"><img  class="snsicon" src="iconimg/Facebook 2.png" alt="facebookのアイコン" onmouseover="this.src='iconimg/Facebook.png'" onmouseout="this.src='iconimg/Facebook 2.png'"></a>
+    </span>
+      
+    <span class="sns-icon" id="twitter">
+      <a href="#"><img class="snsicon" src="iconimg/Twitter 2.png" alt="ツイッターアイコン" onmouseover="this.src='iconimg/Twitter.png'" onmouseout="this.src='iconimg/Twitter 2.png'"></a>
+    </span>
+
+    <span class="sns-icon" id="google">
+      <a href="#" target="_blank" rel="nofollow"><img class="snsicon" src="iconimg/Google+ 2.png" alt="" onmouseover="this.src='iconimg/Google+.png'" onmouseout="this.src='iconimg/Google+ 2.png'"></a>
+    </span>
+  </div>
+  </div>
+
+  <div class="footer-pre">
+    
+  </div>
+  <footer>
+    <p id="copyright">©Copyright2019 AnaiRina.All Rights Reserved.</p>
+  </footer>
+
+
+
+    
+
+
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script>
+    $(function(){
+      $('#kansou-icon').click(function(){
+        $('#kansou-p').fadeIn(1000);
+      });
+
+      $('#time-icon').click(function(){
+        $('#time-p').fadeIn(1000);
+      });
+
+      $('#day-icon').click(function(){
+        $('#day-p').fadeIn(1000);
+      });
+
+      $('#bag-icon').click(function(){
+        $('#bag-p').fadeIn(1000);
+      });
+
+
+    });
+  </script>
+  </body>
+
+</html>
