@@ -27,7 +27,7 @@ h1{
   width: 230px;
   padding: 5px;
   filter: grayscale(100%) contrast(70%) brightness(115%);
-  transition: 1s;
+  transition: all 1s;
   border-radius: 30px;
 }
 
