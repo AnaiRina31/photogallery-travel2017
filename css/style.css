@@ -1,0 +1,212 @@
+body{
+  font-family: 'Chalkduster','TsukuARdGothic-Regular',sans-serif;
+  margin: 0;
+}
+
+h1{
+  /* color: orange; */
+  color: #4D3534;
+  text-align: center;
+  margin: 35px 0 35px 0;
+  transition: 1s;
+}
+
+
+.gallery{
+  margin: 10px 50px;
+  text-align: center;
+}
+
+.top{
+  /* background-color: #B4D4A9; */
+  background-color: #DDC998;
+  padding: 50px 0;
+}
+
+.gallery img{
+  width: 230px;
+  padding: 5px;
+  filter: grayscale(100%) contrast(70%) brightness(115%);
+  transition: 1s;
+  border-radius: 30px;
+}
+
+.gallery img:hover{
+  filter: grayscale(0);
+  transform: scale(1.1);
+}
+
+.travel-message{
+  padding: 0 50px 0 50px;
+  text-align: center;
+  margin: 60px 0 60px 0;
+  /* background-color: #FFF8E5; */
+}
+
+.travel-message p{
+  font-size: 17px;
+}
+
+h2, h3{
+  /* color: #4D3534; */
+  color: #4D3534; 
+}
+
+h2{
+  font-size: 30px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+h3{
+  margin-top: 70px;
+  font-size: 25px;
+}
+
+
+.contains{
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+  display: none;
+}
+
+
+
+#day{
+  text-align: center;
+}
+
+.icon{
+  width: 100px;
+}
+
+.icon:hover{
+  transform: scale(1.1);
+}
+
+#bag-p{
+  text-align: center;
+}
+
+#top-top{
+  height: 60px;
+  background-color: #DDC998;
+}
+
+.bag-height, .day-height{
+  height: 200px;
+}
+
+.time-height{
+  height: 300px;
+}
+
+.kansou-height{
+  height: 400px;
+}
+
+
+.green-border{
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  padding: 0.2em 0.5em;
+  color: #565656;
+  background: rgb(246, 242, 205);
+  box-shadow: 0px 0px 0px 10px #F6F2CD;
+  border: dashed 2px #565656;
+  border-radius: 8px;
+}
+
+.travel-message{
+  font-family: 'Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+}
+
+#d-meigen{
+  text-align: center;
+}
+
+#d-by{
+  text-align: center;
+  font-size: 10px;
+}
+
+.daiana-cover{
+  background-image: url(https://cdn-ak.f.st-hatena.com/images/fotolife/a/ananachan/20191017/20191017011311.png);
+  background-size: cover;
+  padding: 150px 0;
+  background-attachment: fixed;
+}
+
+#r-meigen{
+  text-align: center;
+}
+
+#r-by{
+  text-align: center;
+  font-size: 10px;
+}
+
+.roberto-cover{
+  background-image: url(https://cdn-ak.f.st-hatena.com/images/fotolife/a/ananachan/20191017/20191017185108.png);
+  background-size: cover;
+  padding: 150px 0;
+  background-attachment: fixed;
+
+}
+
+.green-backcolor{
+  background-color: #DDC998;
+  padding: 30px 0;
+}
+
+.share{
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.share h3{
+  color: #4D3534;
+  margin-bottom: 70px;
+  font-size: 35px;
+}
+
+.snsicon{
+  width: 70px;
+}
+
+footer{
+  background-color: #4D3534;
+  height: 100px;
+  padding-top: 0;
+}
+
+#girlimage-sns{
+  width: 400px;
+}
+
+.sns-icon{
+  display: inline-block;
+  margin: 0 13px;
+  transition: transform 0.4s ease-out;
+}
+
+.sns-icon:hover{
+  transform: scale(1.2) rotate(360deg);
+}
+
+#copyright {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.footer-pre{
+  height: 20px;
+  background-color: #DDC998;
+  padding-bottom: 0;
+}
